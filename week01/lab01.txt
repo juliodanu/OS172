@@ -5,3 +5,4 @@ drwxr-xr-x 18 julio.muhammad StafCS 4096 Sep  8 06:02 ..
 -rw-r--r--  1 julio.muhammad StafCS    0 Sep  8 06:11 lab01.txt
 -rw-r--r--  1 julio.muhammad StafCS   12 Sep  8 06:03 whyStudyOS.txt
 Today is 08 Sep 2017 at 06:19:57
+Today is 08 Sep 2017 at 06:24:59
