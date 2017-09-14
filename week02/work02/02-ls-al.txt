@@ -1,0 +1,10 @@
+total 40
+drwx--x--x  5 julio.muhammad StafCS 4096 Sep 12 14:00 .
+drwxr-xr-x 17 root           root   4096 Sep  2 10:01 ..
+-rw-r--r--  1 julio.muhammad StafCS 1612 Sep 12 13:57 00-toc.txt
+-rw-r--r--  1 julio.muhammad StafCS 3158 Sep 12 13:58 01-public-osteam.txt
+-rw-------  1 julio.muhammad StafCS 2387 Sep  8 06:55 .bash_history
+drwxr-xr-x  2 julio.muhammad StafCS 4096 Sep  8 06:15 .nano
+drwxr-xr-x 18 julio.muhammad StafCS 4096 Sep  8 06:40 OS172
+-rw-------  1 julio.muhammad StafCS 4802 Sep 12 13:50 .viminfo
+drwxr-xr-x  3 julio.muhammad StafCS 4096 Sep 12 13:49 work

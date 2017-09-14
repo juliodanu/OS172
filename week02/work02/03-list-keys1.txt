@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/j/julio.muhammad/.gnupg/pubring.gpg
+------------------------------------------------------------
+pub   4096R/A4475F1B 2017-09-12 [expires: 2018-03-11]
+uid                  Julio Muhammad Pranadano (studying OS is fun) <julio.muhammad@ui.ac.id>
+sub   4096R/7568DA2A 2017-09-12 [expires: 2018-03-11]
+
