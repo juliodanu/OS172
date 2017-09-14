@@ -1,0 +1,5 @@
+w00-170831-19-LR-About:Introduction to Operating System, From: Lecturer
+w00-170902-10-DS-About:Introduction to Operating System, From: Assistant Lecturer
+w00-170905-14-LR-About:Introduction to Operating System, From: Chapter 0:Introduction (OLD 00)
+w01-170907-12-LR-About:HKI and Scripting, From: Chapter 2:HKI & Scripting (OLD 02 HKI & Scripting)
+w01-170908-05-PS-About:HKI and Scripting, From: Chapter 2:HKI & Scripting (OLD 02 HKI & Scripting)
